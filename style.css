@@ -1,0 +1,28 @@
+body{
+
+}
+
+.carousel-item img{
+    width: 100%;
+    height: 350px;
+}
+
+.about-single-item{
+    transition: .5s;
+}
+
+.about-single-item:hover{
+    background-color:rgb(46, 200, 188);
+    color: aliceblue;
+}
+.about-single-item p:hover{
+    color: aliceblue;
+}
+
+.social-icon ul li i{
+    font-size: 20px;
+
+}
+.icon{
+    font-size: 20px; 
+}

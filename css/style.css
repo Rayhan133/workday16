@@ -1,0 +1,57 @@
+body{
+
+}
+
+.carousel-item img{
+    width: 100%;
+    height: 350px;
+}
+
+.about-single-item{
+    transition: .5s;
+}
+
+.about-single-item:hover{
+    background-color:rgb(46, 200, 188);
+    color: aliceblue;
+}
+.about-single-item p:hover{
+    color: aliceblue;
+}
+
+
+.social-icon i{
+    font-size: 20px;
+}
+
+.social-icon a{
+    border: 1px solid white;
+    color: black;
+    
+
+}
+.social-icon a:hover{
+    
+    color: white;
+    background-color: rgb(253, 104, 5);
+    
+
+}
+
+.service-item{
+    transition: 1s;
+}
+
+.service-item i{
+    font-size: 30px;
+}
+
+.service-item i:hover{
+    color: rgb(221, 65, 4);
+    margin-top: 40px;
+}
+
+.right-img{
+    background-image: url("paper.gif");
+   
+}
